@@ -59,5 +59,5 @@ irá exigir um conhecimento técnico mais avançado. Por padrão diponibilizamos
 Este, possui um minímo de recursos para facilitar seu aprendizado.
 
 Por favor mantenha os dados de autoria!
-
-<a href="http://www.owpoga.com/soordle/demo/xamaleon/index.php">Demo</a>
+--------------------------------------------------------------------------------------------------------
+<a href="http://www.owpoga.com/soordle/demo/xamaleon/index.php" target="_blank"><b>Veja Demo</b></a>
