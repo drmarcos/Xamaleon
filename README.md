@@ -36,10 +36,14 @@ Este sistema de cadastros foi desenvolvido usando PHP versão 5.3.8.
 usado em qualquer sistema sem problema algum.
 
 
-INSTALAÇÃO : Não requer nenhum conhecimento técnico avançado, bastando colocar os arquivos descompactados no diretório em seu servidor
+INSTALAÇÃO : 
+-------------------------------
+Não requer nenhum conhecimento técnico avançado, bastando colocar os arquivos descompactados no diretório em seu servidor
  e acessar o endereço pelo seu navegador para efetuar as configurações necessárias para seu correto funcionamento.
  
- TEMAS : Você facilmente poderá modificar e ou criar temas, basta duplicar um diretório existente e renomea-lo, dessa forma você poderá configura-lo
+ TEMAS : 
+ -----------------------------
+ Você facilmente poderá modificar e ou criar temas, basta duplicar um diretório existente e renomea-lo, dessa forma você poderá configura-lo
  rapidamente editando os arquivos .css e substituindo as imagens. 
  O novo diretório irá aparecer automaticamente no menu dropdown das configurações do sistema em fucnionamento.
  
@@ -54,7 +58,9 @@ No caso de instalações em servidores de produção, será necessário ter aces
 Os idiomas ativos no sistema foram traduzidos usando a ferramente de tradução do Google, por tanto não há garantia de um resultado
 satisfatório.
 
-MÓDULOS : Os módulos novos serão identificados pelo sistema instalado, o procedimento é semelhante ao de criação de temas. No entanto, este recurso
+MÓDULOS : 
+-----------------------------
+Os módulos novos serão identificados pelo sistema instalado, o procedimento é semelhante ao de criação de temas. No entanto, este recurso
 irá exigir um conhecimento técnico mais avançado. Por padrão diponibilizamos um módulo denominado MODELO para uma fácil e rápida compreensão do trabalho.
 Este, possui um minímo de recursos para facilitar seu aprendizado.
 
