@@ -1,13 +1,13 @@
 # Xamaleon
 Sistema web multi-idioma de armazenamento de dados em XML exclusivamente - v1.0.1
 
-/*-----------------------------------------------------------------------------------*
+
 @		Autor: 	Oliveira M.J.N
 @		Contato: <soordle@gmail.com>							                     								 	 
 @       ® todos os direitos reservados desde 2007  
 @       VERSÂO 1.0     								 
 @
-@ NOTICE OF COPYRIGHT ---------------------------------------------------------------*                   
+@ NOTICE OF COPYRIGHT
 @
 @ Copyright (C) 2007  Oliveira M.J.N  http://www.eadgames.com.br (desativado)       
 @ Copyright (C) 2012  Oliveira M.J.N  http://www.soordle.org (desativado)
@@ -24,8 +24,8 @@ Sistema web multi-idioma de armazenamento de dados em XML exclusivamente - v1.0.
 @ GNU General Public License for more details:                          
 @
 @          http://www.gnu.org/copyleft/gpl.html                         
-@                                                                       
-@------------------------------------------------------------------------------------*/
+                                                                       
+
 
 Este sistema de cadastros foi desenvolvido usando PHP versão 5.3.8.
 É um recurso complementar de uso paralelo ao seu sistema principal, um apêndice do sistema SOORDLE que pode ser
