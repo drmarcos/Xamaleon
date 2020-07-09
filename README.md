@@ -2,10 +2,6 @@
 Sistema web multi-idioma de armazenamento de dados em XML exclusivamente - v1.0.1
 
 /*-----------------------------------------------------------------------------------*
-@		SISTEMA DE GERENCIAMENTO DE CONTEÚDOS PARA SITES INTEGRADO AO MOODLE, 
-@		VENDA DE CURSOS E MATRÍCULAS AUTOMATIZADAS 
-@		{SOORDLE - SGCS - CMS}    	 
-@		Idioma: Português- Brasil	            						 
 @		Autor: 	Oliveira M.J.N
 @		Contato: <soordle@gmail.com>							                     								 	 
 @       ® todos os direitos reservados desde 2007  
