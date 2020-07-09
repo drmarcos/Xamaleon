@@ -1,5 +1,5 @@
 # Xamaleon
-Sistema web multi-idioma de armazenamento de dados em XML exclusivamente
+Sistema web multi-idioma de armazenamento de dados em XML exclusivamente - v1.0.1
 
 /*-----------------------------------------------------------------------------------*
 @		SISTEMA DE GERENCIAMENTO DE CONTEÚDOS PARA SITES INTEGRADO AO MOODLE, 
