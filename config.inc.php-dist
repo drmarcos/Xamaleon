@@ -1,0 +1,62 @@
+<?php
+/*-----------------------------------------------------------------------------------*
+@       NÃO REMOVA AS INFORMAÇÕES A SEGUIR
+@		SISTEMA DE GERENCIAMENTO DE CONTEÚDOS PARA SITES INTEGRADO AO MOODLE, 
+@		VENDA DE CURSOS E MATRÍCULAS AUTOMATIZADAS 
+@		{SOORDLE - SGCS - CMS}    	 
+@		Idioma: Português- Brasil	            						 
+@		Autor: 	Oliveira M.J.N
+@		Contato: <soordle@gmail.com>							                     								 	 
+@       ® todos os direitos reservados desde 2007  
+@       VERSÃO 0.1.1     								 
+@
+@ NOTICE OF COPYRIGHT ---------------------------------------------------------------*                   
+@
+@ Copyright (C) 2007  Oliveira M.J.N  http://www.eadgames.com.br        
+@ Copyright (C) 3012  Oliveira M.J.N  http://www.soordle.org                    
+@
+@ This program is free software; you can redistribute it and/or modify  
+@ it under the terms of the GNU General Public License as published by  
+@ the Free Software Foundation; either version 2 of the License, or     
+@ (at your option) any later version.                                   
+@
+@ This program is distributed in the hope that it will be useful,       
+@ but WITHOUT ANY WARRANTY; without even the implied warranty of        
+@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         
+@ GNU General Public License for more details:                          
+@
+@          http://www.gnu.org/copyleft/gpl.html                         
+@
+@-------------------------------- [ LEIA COM ATENÇÃO AS REGRAS A SEGUIR ] ------------*/                                                                       
+/* -- [ NÃO ADIOCIONE NENHUMA LINHA DEPOIS DESTE COMENTRIO VOCÊ PODE APENAS EDITAR OS CONTEÚDOS DAS VARIVEIS NESTE DOCUMENTO ] -- */
+/* -- [ O BOM FUNCIONAMENTO DE ALGUNS RECURSOS DEPENDEM DA EXATA FORMATAÇÃO DAS LINHAS ABAIXO, NÃO FAÇA QUEBRA DE LINHAS ] -- */
+/* -- [ $producao -> valor (SIM) para produção (sistema está Online) ] -- */
+/* -- [ $producao -> valor (NAO) para desenvolvimento (localhost off line) ] -- */
+/* -- [ $autoCadastro -> valor (UM) exibe formulário na página inicial permitindo assim a realização de auto-cadastros ] -- */
+/* -- [ $autoCadastro -> valor (ZERO) os cadastros serão realizados apenas por um administrador ] -- */
+	$idioma = "pt_br";
+	$EMPRESA_NOME = "Nome da sua empresa";
+	$AUTOR1_Email = "seu_email@seu_email.com";
+	$tema = "sampa";
+	$NomeModulo = "oficina";
+	$repositorioArquivos = "armazem";
+	$numeroRegistrosPaginaRelatorio = "10";
+	$autoCadastro = "ZERO";
+	$SenhaGravada = "21232f297a57a5a743894a0e4a801fc3"; /* admin */
+	$usuarioGravado = "21232f297a57a5a743894a0e4a801fc3"; /* admin */
+	$metaDescricao = "Faça uma descrição de que forma você está usando este sistema";
+	$metaPalavrasChave = "use,palavras,separando,por,virgulas";
+	$metaAutor = "Digite seu Nome Completo";
+	$tagTituloSite = "XAMALEON V.0.1";
+	$producao = "NAO";
+	$linkRedirecionaRetorno = "http://www.soordle.org";
+	$nomeEvento = "ex:Curso Soordle";
+	$preRequisitos = "ex:Pós graduação";
+if($producao != "NAO"){
+	$ROTA = "http://localhost/xamaleon_base/xamaleon_v.0.1.1";
+	$INCLUDE = "C:/xampp/htdocs/xamaleon_base/xamaleon_v.0.1.1";
+	}else{
+	$ROTA = "http://localhost/xamaleon_base/xamaleon_v.0.1.1";
+	$INCLUDE = "C:/xampp/htdocs/xamaleon_base/xamaleon_v.0.1.1";
+}
+?>

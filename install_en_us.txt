@@ -1,0 +1,29 @@
+Xamaleon v.0.1 - Project Soordle
+www.eadgames.com.br
+www.soordle.org
+
+Installation [en_us]
+
+The installation process is very intuitive.
+The entire system was created in Windows / Xampp version 1.77
+   + Apache 2.2.21
+
+
+One. Unzip your files on your server (localhost or online);
+2nd. If you wish you can do that in sub-directories as htt ://localhost/meusProjetos/xamaleon;
+3rd. Access the system via their browser in some settings may occur PHP page is blank, in this case
+enter the full path eg htt :/ / localhost / meusProjetos / xamaleon / index.php;
+4th. Carefully read the information provided during installation
+5th. By default some settings are unset so that the system works as it was created and can be changed by you;
+6th. If you encounter problems during installation, check the directory permissions;
+7th. The system will automatically detect the physical and virtual paths of the application, it costs nothing to check to see if they are correct.
+Eight. If you want, you can just use the file config.inc.php-dist changing information and saving it as config.inc.php. (do not add any lines to this file, just edit it using a text editor).
+done this, simply access via the browser.
+9th. You may make as many installations desired, they can be used simultaneously without problems.
+
+
+If you find any problem with your installation, you can simply delete the file config.inc.php and start again. It is very quick and easy to do.
+
+You may see also:
+
+http://www.youtube.com/watch?feature=player_embedded&v=BpujA7ExLPE
