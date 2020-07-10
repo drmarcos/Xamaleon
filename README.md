@@ -3,7 +3,7 @@ Sistema web multi-idioma de armazenamento de dados em XML exclusivamente - v1.0.
 
 
 @		Autor: 	Oliveira M.J.N
-@		Contato: <soordle@gmail.com>							                     								 	 
+@		Contato: <soordle#gmail.com>							                     								 	 
 @       ® todos os direitos reservados desde 2007  
 @       VERSÂO 1.0     								 
 @
